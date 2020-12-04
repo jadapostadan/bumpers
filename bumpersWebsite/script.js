@@ -29,7 +29,7 @@ var cnv;
 
 function preload() {
 
-	videos01Array[0] = createVideo('https://jadapostadan.github.io/jadapostadan/bumpers/bumpersWebsite/_videos/_nickelodeon/nick_bumper_01.mp4');
+	// videos01Array[0] = createVideo('https://jadapostadan.github.io/jadapostadan/bumpers/bumpersWebsite/_videos/nick_bumper_01.mp4');
  // 	videos01Array[1] = createVideo('nick_bumper_02.mp4');
  // 	videos01Array[2] = createVideo('nick_bumper_03.mp4');
  //  	videos01Array[3] = createVideo('nick_bumper_04.mp4');
