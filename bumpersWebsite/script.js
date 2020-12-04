@@ -9,9 +9,9 @@ var cnv;
 
 function preload() {
 
-  videos01Array[0] = createVideo('_videos/_nickelodeon/nick_bumper_01.mp4');
-  videos01Array[1] = createVideo('_videos/_nickelodeon/nick_bumper_02.mp4');
-  videos01Array[2] = createVideo('_videos/_nickelodeon/nick_bumper_03.mp4');
+  videos01Array[0] = createVideo('https://github.com/jadapostadan/bumpers/_videos/_nickelodeonnick_bumper_01.mp4');
+  videos01Array[1] = createVideo('https://github.com/jadapostadan/bumpers/_videos/_nickelodeonnick_bumper_02.mp4');
+  videos01Array[2] = createVideo('https://github.com/jadapostadan/bumpers/_videos/_nickelodeonnick_bumper_03.mp4');
 	
 }
 
