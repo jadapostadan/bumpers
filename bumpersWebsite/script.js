@@ -29,7 +29,7 @@ var cnv;
 
 function preload() {
 
-	// videos01Array[0] = createVideo('https://jadapostadan.github.io/jadapostadan/bumpers/bumpersWebsite/_videos/nick_bumper_01.mp4');
+	videos01Array[0] = createVideo('https://jadapostadan.github.io/jadapostadan/bumpers/bumpersWebsite/_videos/_nickelodeon/nick_bumper_01.mp4');
  // 	videos01Array[1] = createVideo('nick_bumper_02.mp4');
  // 	videos01Array[2] = createVideo('nick_bumper_03.mp4');
  //  	videos01Array[3] = createVideo('nick_bumper_04.mp4');
@@ -46,7 +46,7 @@ function preload() {
  //  	videos03Array[3] = createVideo('cn_bumper_04.mp4');
  //  	videos03Array[4] = createVideo('cn_bumper_05.mp4');
 	
-	// tv = loadImage('https://jadapostadan.github.io/jadapostadan/bumpers/bumpersWebsite/_images/00sTv.png');
+	tv = loadImage('https://jadapostadan.github.io/jadapostadan/bumpers/bumpersWebsite/_images/00sTv.png');
 	
 }
 
@@ -124,9 +124,9 @@ function draw() {
 		cNetworkArray[b].display();
 	}
 	
-	image(tv,250,(height/2)+25,375,375);
-	image(tv,width/2,(height/2)+25,375,375);
-	image(tv,width-250,(height/2)+25,375,375);
+	image(tv, 250, (height/2)+25, 375, 375);
+	image(tv, width/2, (height/2)+25, 375, 375);
+	image(tv, width-250, (height/2)+25, 375, 375);
 	
 }
 
